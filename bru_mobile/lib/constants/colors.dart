@@ -78,5 +78,5 @@ class ExamsColors {
     Color(0xFF1E8E8E),
     Color(0xFF4B4F8B),
     Color(0xFFda5252)
-  ];
+  ]; //sd
 }
